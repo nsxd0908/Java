@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+
+}
+div{
+    background-color: #fff;
+    max-width:  630px;
+    height: 654px;
+    margin: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
